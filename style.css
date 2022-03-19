@@ -113,7 +113,7 @@
 .text{
     position: absolute;
     top:20%;
-    left :6.5%;
+    left :10%;
     font-size: 20px;
     max-width:285px;
   }
@@ -170,5 +170,6 @@
   transform: scale(1.5);
 }
 .addToDo::placeholder{color: #fff;
+  font-size: 20px;
 }
 }
