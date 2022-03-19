@@ -23,13 +23,13 @@
   }
   .container{
     padding:20px 10px ;
-    width:130%;
+    width:100%;
     margin-left:15% ;
 }
 
   .header{
     height:30vh;
-    width: 100%;
+    width: 130%;
     position: relative;
    right: 15%;
    
