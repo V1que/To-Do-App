@@ -29,7 +29,7 @@
 
   .header{
     height:30vh;
-    width: 130%;
+    width: 100%;
     position: relative;
    right: 15%;
    
@@ -43,7 +43,7 @@
   .clear i{
     font-size: 30px;
     color: #FFF;
-    margin-left: 2%;
+    margin-left: 0%;
   }
   .clear i:hover{
     cursor: pointer;
